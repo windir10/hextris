@@ -3,7 +3,7 @@ function render() {
 	if (gameState === 0) {
 		grey = "rgb(220, 223, 225)";
 	}
-	
+
 	ctx.clearRect(0, 0, trueCanvas.width, trueCanvas.height);
 	clearGameBoard();
 	if (gameState === 1 || gameState === 2 || gameState === -1 || gameState === 0) {
