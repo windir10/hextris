@@ -94,6 +94,7 @@ function init(b) {
     history = {};
     importedHistory = undefined;
     importing = 0;
+    tweetblock=false;
     isGameOver = 2;
     score = saveState.score || 0;
     prevScore = 0;
