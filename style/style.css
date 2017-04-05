@@ -274,6 +274,7 @@ button:focus {
 
 .helpText {
 	z-index:3001;
+	border: 3px solid red;
 }
 
 .centeredHeader {
