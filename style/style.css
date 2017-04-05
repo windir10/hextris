@@ -136,6 +136,7 @@ button:focus {
 	width:25%;
 	z-index:99999999;
 	cursor:pointer;
+	border: 1px solid blue;
 }
 
 #helpScreen {
